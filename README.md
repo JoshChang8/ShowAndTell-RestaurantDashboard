@@ -4,7 +4,7 @@ A restaurant dashboard for servers and front-of-house staff to manage reservatio
 
 ## Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/uQ1ctilWnkk/0.jpg)](https://www.youtube.com/watch?v=uQ1ctilWnkk)
+[![Watch the video](https://img.youtube.com/vi/uQ1ctilWnkk/0.jpg)](https://www.youtube.com/watch?v=uQ1ctliWnkk)
 
 ---
 
