@@ -118,7 +118,7 @@ The application has been organized into modular components for better readabilit
 ### 3. AI Integrations 
 - **Diner Follow-Up Analysis**
    - Takes reservation information along with email information of all diners in date bucket and leverages LLM to determine which customers need a follow up with server ie) photography permissions or addition to party size
-   - Results are stored in Smart Inbox on sidebar, inspiration from S&T demo
+   - Results are stored in Smart Inbox on the sidebar
 - **Morning Huddle Audio Analysis**
    - User uploads audio file of morning huddle, then transcripted to text using OpenAI’s whisper model
    - Transcription sent to Cohere LLM which summarizes meeting and extracts action items for servers to complete 
@@ -134,11 +134,6 @@ The application has been organized into modular components for better readabilit
 - **Audio Transcription**: Convert morning huddle recordings to text
 - **Data Analysis**: Statistics and visualizations for each date bucket
 - **Specialized Views**: Dietary restrictions and special occasions tables
-
----
-
-## System Design Diagram
-![Restaurant Dashboard](data/restaurant-dashboard-system-design-diagram.jpeg)
 
 ---
 
